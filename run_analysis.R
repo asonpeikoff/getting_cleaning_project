@@ -1,5 +1,5 @@
 # File:   run_analysis.R
-# Author: Jason D. Miller
+# Author: Ason Peikoff
 
 # Set Options -------------------------------------------------------------
 setwd("C://Users//Jason//Dropbox//Coursera//getting_and_cleaning//getting_cleaning_project")

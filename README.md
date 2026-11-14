@@ -1,6 +1,6 @@
 ---
 title: 'README for Getting and Cleaning Data Coursera Project'
-author: "Jason D. Miller"
+author: "Ason Peikoff"
 date: "Sunday, December 21, 2014"
 output: html_document
 ---
@@ -38,5 +38,5 @@ in your browser.
 ## Special note #3
 Check out my blog and follow me on Github! :)
 1. http://hack-r.com
-2. http://github.com/hack-r
+2. http://github.com/asonpeikoff
 3. http://hack-r.github.io

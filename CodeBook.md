@@ -1,6 +1,6 @@
 ---
 title: 'CodeBook for Getting and Cleaning Data Coursera Project'
-author: "Jason D. Miller"
+author: "Ason Peikoff"
 date: "Sunday, December 21, 2014"
 output: html_document
 ---
